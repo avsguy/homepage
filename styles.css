@@ -135,6 +135,7 @@
 .intro {
     display: flex;
     justify-content: start;
+    margin-top: 15px;
   }
   
   .intro__icon-wrapper {
@@ -160,13 +161,15 @@
   
   .skills__header {
     color: var(--secondary-text-color);
-    text-align: center;
+    text-align: left;
     margin-bottom: 15px;
   }
   
   .skills__text {
     color: var(--secondary-text-color);
-    text-align: justify;
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
   }
 
 
